@@ -13,3 +13,4 @@ Contains All Frontend Resource.
 | Falcor | [Falcor](https://netflix.github.io/falcor/) |
 |--------| --------------------------------------------|
 | descope | [descope](https://www.descope.com/) |
+| shuffle | [shuffle](https://shuffle.dev/)
