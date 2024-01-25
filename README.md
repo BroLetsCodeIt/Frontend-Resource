@@ -17,6 +17,7 @@ Contains All Frontend Resource.
 | Open Peeps | [Open peeps](https://www.openpeeps.com/) | 
 -------------| -----------------------------------------|
 | Humaaans | [Humaans](https://www.humaaans.com/) | 
+| Avaatar Maker | [Avaatar Maker](https://avamake.com/) |
 
 ## Javascript
 
