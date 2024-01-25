@@ -19,6 +19,14 @@ Contains All Frontend Resource.
 | Humaaans | [Humaans](https://www.humaaans.com/) | 
 | Avaatar Maker | [Avaatar Maker](https://avamake.com/) |
 | User pics | [User pics](https://userpics.craftwork.design/) |
+| Open Doodles | [Open Doodles](https://www.opendoodles.com/) | 
+| Stubborn | [Stubborn](https://stubborn.fun/) |
+
+
+## Fonts Website 
+| freefaces | [FreeFaces](https://www.freefaces.gallery/typefaces/skyscapers) |
+|-----------| ----------------------------------------------------------------|
+
 
 ## Javascript
 
