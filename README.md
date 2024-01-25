@@ -6,4 +6,10 @@ Contains All Frontend Resource.
 |---------------|---------------------------------------|
 | Landing gallery | [Landing-gallery](https://www.landing.gallery/) |
 | Radix-ui | [Radix](https://www.radix-ui.com/) |
-| 
+
+
+## Javascript
+
+| Falcor | [Falcor](https://netflix.github.io/falcor/) |
+|--------| --------------------------------------------|
+| descope | [descope](https://www.descope.com/) |
