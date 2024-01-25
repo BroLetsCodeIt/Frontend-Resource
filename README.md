@@ -28,6 +28,10 @@ Contains All Frontend Resource.
 |-----------| ----------------------------------------------------------------|
 
 
+## Gradients
+| shaders | [Shader](https://www.shadergradient.co/) |
+|----------| ----------------------------------------|
+
 ## Javascript
 
 | Falcor | [Falcor](https://netflix.github.io/falcor/) |
