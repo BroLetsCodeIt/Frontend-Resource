@@ -18,6 +18,7 @@ Contains All Frontend Resource.
 -------------| -----------------------------------------|
 | Humaaans | [Humaans](https://www.humaaans.com/) | 
 | Avaatar Maker | [Avaatar Maker](https://avamake.com/) |
+| User pics | [User pics](https://userpics.craftwork.design/) |
 
 ## Javascript
 
