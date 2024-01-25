@@ -39,3 +39,8 @@ Contains All Frontend Resource.
 | descope | [descope](https://www.descope.com/) |
 | shuffle | [shuffle](https://shuffle.dev/) |
 | apexcharts | [apexcharts](https://apexcharts.com/) | 
+
+
+## Tailwind Components
+| tailwind components | [tailwindcomponents](https://tailwindcomponents.com/) |
+|---------------------| ------------------------------------------------------|
