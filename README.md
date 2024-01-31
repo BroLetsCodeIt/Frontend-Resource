@@ -31,6 +31,8 @@ Contains All Frontend Resource.
 ## Gradients
 | shaders | [Shader](https://www.shadergradient.co/) |
 |----------| ----------------------------------------|
+| shadcn Theme | [shadcn theme generator](https://gradient.page/tools/shadcn-ui-theme-generator) |
+
 
 ## Javascript
 
