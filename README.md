@@ -47,6 +47,7 @@ Contains All Frontend Resource.
 ## Tailwind Components
 | tailwind components | [tailwindcomponents](https://tailwindcomponents.com/) |
 |---------------------| ------------------------------------------------------|
+| Tailwind Awesome | [Tailwindawesome](https://www.tailwindawesome.com/?price=free) |
 
 
 
