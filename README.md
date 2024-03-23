@@ -44,13 +44,13 @@ Contains All Frontend Resource.
 | descope | [descope](https://www.descope.com/) |
 | shuffle | [shuffle](https://shuffle.dev/) |
 | apexcharts | [apexcharts](https://apexcharts.com/) | 
+| Browserless - DataScraping , PDF , Screenshot | [Browserless](https://www.browserless.io/) |
 
 
 ## Tailwind Components
 | tailwind components | [tailwindcomponents](https://tailwindcomponents.com/) |
 |---------------------| ------------------------------------------------------|
 | Tailwind Awesome | [Tailwindawesome](https://www.tailwindawesome.com/?price=free) |
-
 
 
 If you like it please give it a start 🌟
