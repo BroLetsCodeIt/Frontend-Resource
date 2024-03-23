@@ -23,6 +23,7 @@ Contains All Frontend Resource.
 | Open Doodles | [Open Doodles](https://www.opendoodles.com/) | 
 | Stubborn | [Stubborn](https://stubborn.fun/) |
 | UnDraw | [UnDraw](https://undraw.co/illustrations) |
+| Free Icons 1000 game assets       | [Kennel](https://kenney.nl/) |
 
 
 ## Fonts Website 
