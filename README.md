@@ -52,6 +52,7 @@ Contains All Frontend Resource.
 | tailwind components | [tailwindcomponents](https://tailwindcomponents.com/) |
 |---------------------| ------------------------------------------------------|
 | Tailwind Awesome | [Tailwindawesome](https://www.tailwindawesome.com/?price=free) |
-
+| Next UI | [NextUI](https://nextui.org/) |
+| Syntax UI | [SyntaxUI](https://syntaxui.com/) |
 
 If you like it please give it a start 🌟
