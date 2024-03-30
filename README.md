@@ -12,6 +12,7 @@ Contains All Frontend Resource.
 | UI jar | [ Ui jar ](https://uijar.com/) |
 | good ui | [Good UI](https://goodui.org/) |
 | background grids | [bg ibelick.com](https://bg.ibelick.com/) | 
+| Embla carousel | [All Carousel](https://www.embla-carousel.com/examples/generator/) |
 
 ## Illustration
 
