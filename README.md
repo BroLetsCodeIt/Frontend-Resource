@@ -13,6 +13,8 @@ Contains All Frontend Resource.
 | good ui | [Good UI](https://goodui.org/) |
 | background grids | [bg ibelick.com](https://bg.ibelick.com/) | 
 | Embla carousel | [All Carousel](https://www.embla-carousel.com/examples/generator/) |
+| Material Design | [Material Design](https://m3.material.io/) |
+| Ant Design | [Ant Design](https://ant.design/) |
 
 ## Illustration
 
