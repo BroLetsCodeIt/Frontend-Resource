@@ -64,4 +64,15 @@ Contains All Frontend Resource.
 | docusaurus | [for documentation ](https://docusaurus.io/docs) |
 | -----------| -------------------------------------------------|
 
+
+## Deployment 
+| Netlify | [netlify](https://www.netlify.com/) | 
+| --------| ------------------------------------| 
+| Github pages | [github pages](https://pages.github.com/) |
+| Digital Ocean | [Digital Ocean](https://www.digitalocean.com) |
+| Heroku | [Heroku](https://www.heroku.com/) |
+| 000webhost.com | [000webhost.com](https://www.000webhost.com/) |
+| hostinger  | [hostinger](https://www.hostinger.in/) |
+| Render | [Render](https://render.com/) |
+
 If you like it please give it a start 🌟
