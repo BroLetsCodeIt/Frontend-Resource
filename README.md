@@ -59,4 +59,9 @@ Contains All Frontend Resource.
 | Next UI | [NextUI](https://nextui.org/) |
 | Syntax UI | [SyntaxUI](https://syntaxui.com/) |
 
+
+## Documentation
+| docusaurus | [for documentation ](https://docusaurus.io/docs) |
+| -----------| -------------------------------------------------|
+
 If you like it please give it a start 🌟
