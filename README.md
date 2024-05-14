@@ -74,5 +74,6 @@ Contains All Frontend Resource.
 | 000webhost.com | [000webhost.com](https://www.000webhost.com/) |
 | hostinger  | [hostinger](https://www.hostinger.in/) |
 | Render | [Render](https://render.com/) |
+| Railway | [Railway](https://railway.app/) |
 
 If you like it please give it a start 🌟
