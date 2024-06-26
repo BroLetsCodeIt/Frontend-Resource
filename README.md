@@ -15,6 +15,7 @@ Contains All Frontend Resource.
 | Embla carousel | [All Carousel](https://www.embla-carousel.com/examples/generator/) |
 | Material Design | [Material Design](https://m3.material.io/) |
 | Ant Design | [Ant Design](https://ant.design/) |
+| Hyper UI | [hyperui.dev](https://www.hyperui.dev/) |
 
 ## Illustration
 
