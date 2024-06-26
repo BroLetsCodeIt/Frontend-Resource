@@ -16,6 +16,7 @@ Contains All Frontend Resource.
 | Material Design | [Material Design](https://m3.material.io/) |
 | Ant Design | [Ant Design](https://ant.design/) |
 | Hyper UI | [hyperui.dev](https://www.hyperui.dev/) |
+| TheFWA | [thefwa](https://thefwa.com/) | 
 
 ## Illustration
 
