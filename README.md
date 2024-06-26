@@ -18,6 +18,8 @@ Contains All Frontend Resource.
 | Hyper UI | [hyperui.dev](https://www.hyperui.dev/) |
 | TheFWA | [thefwa](https://thefwa.com/) | 
 | Page collective | [for landing page ](https://pagecollective.com/) |
+| Refero Design | [refero.design](https://refero.design/) | 
+| Lapa Ninja | [lapa ninja](https://www.lapa.ninja/) | 
 
 ## Illustration
 
