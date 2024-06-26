@@ -17,7 +17,7 @@ Contains All Frontend Resource.
 | Ant Design | [Ant Design](https://ant.design/) |
 | Hyper UI | [hyperui.dev](https://www.hyperui.dev/) |
 | TheFWA | [thefwa](https://thefwa.com/) | 
-| Page Collection | [Page Collection](https://pagecollective.com/) |
+| Page collective | [for landing page ](https://pagecollective.com/) |
 
 ## Illustration
 
